@@ -2,4 +2,5 @@
 ## Master en Ciència de Dades
 ### Predicció de resultats de futbol amb estadística avançada i Machine Learning
 Autor: Guillem Mata Valligny
+
 Universitat Oberta de Catalunya
